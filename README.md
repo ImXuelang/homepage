@@ -53,7 +53,7 @@ npm run build
 > Once the build is complete, the files in the `dist` folder can be uploaded to the server or imported and automatically deployed with one click using a hosting platform such as `Vercel`.
 
 ### Docker Deployment
-❌**_Docker installation has not been verified, so it is uncertain whether it is usable!!_**
+❌_Docker installation has not been verified, so it is uncertain whether it is usable!!_
 >The installation and configuration of Docker will not be covered here. Please resolve it on your own.
 ```bash
 # Build
